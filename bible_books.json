@@ -1,0 +1,400 @@
+{"books": [
+    {
+        "Chinese_full_name": "创世记",
+        "Chinese_abbreviation": "创",
+        "English_full_name": "Genesis",
+        "English_abbreviation": "Gen"
+    },
+    {
+        "Chinese_full_name": "出埃及记",
+        "Chinese_abbreviation": "出",
+        "English_full_name": "Exodus",
+        "English_abbreviation": "Exo"
+    },
+    {
+        "Chinese_full_name": "利未记",
+        "Chinese_abbreviation": "利",
+        "English_full_name": "Leviticus",
+        "English_abbreviation": "Lev"
+    },
+    {
+        "Chinese_full_name": "民数记",
+        "Chinese_abbreviation": "民",
+        "English_full_name": "Numbers",
+        "English_abbreviation": "Num"
+    },
+    {
+        "Chinese_full_name": "申命记",
+        "Chinese_abbreviation": "申",
+        "English_full_name": "Deuteronomy",
+        "English_abbreviation": "Deu"
+    },
+    {
+        "Chinese_full_name": "约书亚记",
+        "Chinese_abbreviation": "书",
+        "English_full_name": "Joshua",
+        "English_abbreviation": "Jos"
+    },
+    {
+        "Chinese_full_name": "士师记",
+        "Chinese_abbreviation": "士",
+        "English_full_name": "Judges",
+        "English_abbreviation": "Jdg"
+    },
+    {
+        "Chinese_full_name": "路得记",
+        "Chinese_abbreviation": "得",
+        "English_full_name": "Ruth",
+        "English_abbreviation": "Rut"
+    },
+    {
+        "Chinese_full_name": "撒母耳记上",
+        "Chinese_abbreviation": "撒上",
+        "English_full_name": "1 Samuel",
+        "English_abbreviation": "1Sa"
+    },
+    {
+        "Chinese_full_name": "撒母耳记下",
+        "Chinese_abbreviation": "撒下",
+        "English_full_name": "2 Samuel",
+        "English_abbreviation": "2Sa"
+    },
+    {
+        "Chinese_full_name": "列王记上",
+        "Chinese_abbreviation": "王上",
+        "English_full_name": "1 Kings",
+        "English_abbreviation": "1Ki"
+    },
+    {
+        "Chinese_full_name": "列王记下",
+        "Chinese_abbreviation": "王下",
+        "English_full_name": "2 Kings",
+        "English_abbreviation": "2Ki"
+    },
+    {
+        "Chinese_full_name": "历代志上",
+        "Chinese_abbreviation": "代上",
+        "English_full_name": "1 Chronicles",
+        "English_abbreviation": "1Ch"
+    },
+    {
+        "Chinese_full_name": "历代志下",
+        "Chinese_abbreviation": "代下",
+        "English_full_name": "2 Chronicles",
+        "English_abbreviation": "2Ch"
+    },
+    {
+        "Chinese_full_name": "以斯拉记",
+        "Chinese_abbreviation": "拉",
+        "English_full_name": "Ezra",
+        "English_abbreviation": "Ezr"
+    },
+    {
+        "Chinese_full_name": "尼希米记",
+        "Chinese_abbreviation": "尼",
+        "English_full_name": "Nehemiah",
+        "English_abbreviation": "Neh"
+    },
+    {
+        "Chinese_full_name": "以斯帖记",
+        "Chinese_abbreviation": "斯",
+        "English_full_name": "Esther",
+        "English_abbreviation": "Est"
+    },
+    {
+        "Chinese_full_name": "约伯记",
+        "Chinese_abbreviation": "伯",
+        "English_full_name": "Job",
+        "English_abbreviation": "Job"
+    },
+    {
+        "Chinese_full_name": "诗篇",
+        "Chinese_abbreviation": "诗",
+        "English_full_name": "Psalms",
+        "English_abbreviation": "Psa"
+    },
+    {
+        "Chinese_full_name": "箴言",
+        "Chinese_abbreviation": "箴",
+        "English_full_name": "Proverbs",
+        "English_abbreviation": "Pro"
+    },
+    {
+        "Chinese_full_name": "传道书",
+        "Chinese_abbreviation": "传",
+        "English_full_name": "Ecclesiastes",
+        "English_abbreviation": "Ecc"
+    },
+    {
+        "Chinese_full_name": "雅歌",
+        "Chinese_abbreviation": "歌",
+        "English_full_name": "Song of Solomon",
+        "English_abbreviation": "Son"
+    },
+    {
+        "Chinese_full_name": "以赛亚书",
+        "Chinese_abbreviation": "赛",
+        "English_full_name": "Isaiah",
+        "English_abbreviation": "Isa"
+    },
+    {
+        "Chinese_full_name": "耶利米书",
+        "Chinese_abbreviation": "耶",
+        "English_full_name": "Jeremiah",
+        "English_abbreviation": "Jer"
+    },
+    {
+        "Chinese_full_name": "耶利米哀歌",
+        "Chinese_abbreviation": "哀",
+        "English_full_name": "Lamentations",
+        "English_abbreviation": "Lam"
+    },
+    {
+        "Chinese_full_name": "以西结书",
+        "Chinese_abbreviation": "结",
+        "English_full_name": "Ezekiel",
+        "English_abbreviation": "Eze"
+    },
+    {
+        "Chinese_full_name": "但以理书",
+        "Chinese_abbreviation": "但",
+        "English_full_name": "Daniel",
+        "English_abbreviation": "Dan"
+    },
+    {
+        "Chinese_full_name": "何西阿书",
+        "Chinese_abbreviation": "何",
+        "English_full_name": "Hosea",
+        "English_abbreviation": "Hos"
+    },
+    {
+        "Chinese_full_name": "约珥书",
+        "Chinese_abbreviation": "珥",
+        "English_full_name": "Joel",
+        "English_abbreviation": "Joe"
+    },
+    {
+        "Chinese_full_name": "阿摩司书",
+        "Chinese_abbreviation": "摩",
+        "English_full_name": "Amos",
+        "English_abbreviation": "Amo"
+    },
+    {
+        "Chinese_full_name": "俄巴底亚书",
+        "Chinese_abbreviation": "俄",
+        "English_full_name": "Obadiah",
+        "English_abbreviation": "Oba"
+    },
+    {
+        "Chinese_full_name": "约拿书",
+        "Chinese_abbreviation": "拿",
+        "English_full_name": "Jonah",
+        "English_abbreviation": "Jnh"
+    },
+    {
+        "Chinese_full_name": "弥迦书",
+        "Chinese_abbreviation": "弥",
+        "English_full_name": "Micah",
+        "English_abbreviation": "Mic"
+    },
+    {
+        "Chinese_full_name": "那鸿书",
+        "Chinese_abbreviation": "鸿",
+        "English_full_name": "Nahum",
+        "English_abbreviation": "Nah"
+    },
+    {
+        "Chinese_full_name": "哈巴谷书",
+        "Chinese_abbreviation": "哈",
+        "English_full_name": "Habakkuk",
+        "English_abbreviation": "Hab"
+    },
+    {
+        "Chinese_full_name": "西番雅书",
+        "Chinese_abbreviation": "番",
+        "English_full_name": "Zephaniah",
+        "English_abbreviation": "Zep"
+    },
+    {
+        "Chinese_full_name": "哈该书",
+        "Chinese_abbreviation": "该",
+        "English_full_name": "Haggai",
+        "English_abbreviation": "Hag"
+    },
+    {
+        "Chinese_full_name": "撒迦利亚书",
+        "Chinese_abbreviation": "亚",
+        "English_full_name": "Zechariah",
+        "English_abbreviation": "Zec"
+    },
+    {
+        "Chinese_full_name": "玛拉基书",
+        "Chinese_abbreviation": "玛",
+        "English_full_name": "Malachi",
+        "English_abbreviation": "Mal"
+    },
+    
+        {
+            "Chinese_full_name": "马太福音",
+            "Chinese_abbreviation": "太",
+            "English_full_name": "Matthew",
+            "English_abbreviation": "Mat"
+        },
+        {
+            "Chinese_full_name": "马可福音",
+            "Chinese_abbreviation": "可",
+            "English_full_name": "Mark",
+            "English_abbreviation": "Mar"
+        },
+        {
+            "Chinese_full_name": "路加福音",
+            "Chinese_abbreviation": "路",
+            "English_full_name": "Luke",
+            "English_abbreviation": "Luk"
+        },
+        {
+            "Chinese_full_name": "约翰福音",
+            "Chinese_abbreviation": "约",
+            "English_full_name": "John",
+            "English_abbreviation": "Joh"
+        },
+        {
+            "Chinese_full_name": "使徒行传",
+            "Chinese_abbreviation": "徒",
+            "English_full_name": "Acts",
+            "English_abbreviation": "Act"
+        },
+        {
+            "Chinese_full_name": "罗马书",
+            "Chinese_abbreviation": "罗",
+            "English_full_name": "Romans",
+            "English_abbreviation": "Rom"
+        },
+        {
+            "Chinese_full_name": "哥林多前书",
+            "Chinese_abbreviation": "林前",
+            "English_full_name": "1 Corinthians",
+            "English_abbreviation": "1Co"
+        },
+        {
+            "Chinese_full_name": "哥林多后书",
+            "Chinese_abbreviation": "林后",
+            "English_full_name": "2 Corinthians",
+            "English_abbreviation": "2Co"
+        },
+        {
+            "Chinese_full_name": "加拉太书",
+            "Chinese_abbreviation": "加",
+            "English_full_name": "Galatians",
+            "English_abbreviation": "Gal"
+        },
+        {
+            "Chinese_full_name": "以弗所书",
+            "Chinese_abbreviation": "弗",
+            "English_full_name": "Ephesians",
+            "English_abbreviation": "Eph"
+        },
+        {
+            "Chinese_full_name": "腓立比书",
+            "Chinese_abbreviation": "腓",
+            "English_full_name": "Philippians",
+            "English_abbreviation": "Php"
+        },
+        {
+            "Chinese_full_name": "歌罗西书",
+            "Chinese_abbreviation": "西",
+            "English_full_name": "Colossians",
+            "English_abbreviation": "Col"
+        },
+        {
+            "Chinese_full_name": "帖撒罗尼迦前书",
+            "Chinese_abbreviation": "帖前",
+            "English_full_name": "1 Thessalonians",
+            "English_abbreviation": "1Th"
+        },
+        {
+            "Chinese_full_name": "帖撒罗尼迦后书",
+            "Chinese_abbreviation": "帖后",
+            "English_full_name": "2 Thessalonians",
+            "English_abbreviation": "2Th"
+        },
+        {
+            "Chinese_full_name": "提摩太前书",
+            "Chinese_abbreviation": "提前",
+            "English_full_name": "1 Timothy",
+            "English_abbreviation": "1Ti"
+        },
+        {
+            "Chinese_full_name": "摩太后书",
+            "Chinese_abbreviation": "提后",
+            "English_full_name": "2 Timothy",
+            "English_abbreviation": "2Ti"
+        },
+        {
+            "Chinese_full_name": "提多书",
+            "Chinese_abbreviation": "多",
+            "English_full_name": "Titus",
+            "English_abbreviation": "Tit"
+        },
+        {
+            "Chinese_full_name": "腓利门书",
+            "Chinese_abbreviation": "门",
+            "English_full_name": "Philemon",
+            "English_abbreviation": "Phm"
+        },
+        {
+            "Chinese_full_name": "希伯来书",
+            "Chinese_abbreviation": "来",
+            "English_full_name": "Hebrews",
+            "English_abbreviation": "Heb"
+        },
+        {
+            "Chinese_full_name": "雅各书",
+            "Chinese_abbreviation": "雅",
+            "English_full_name": "James",
+            "English_abbreviation": "Jam"
+        },
+        {
+            "Chinese_full_name": "彼得前书",
+            "Chinese_abbreviation": "彼前",
+            "English_full_name": "1 Peter",
+            "English_abbreviation": "1Pe"
+        },
+        {
+            "Chinese_full_name": "彼得后书",
+            "Chinese_abbreviation": "彼后",
+            "English_full_name": "2 Peter",
+            "English_abbreviation": "2Pe"
+        },
+        {
+            "Chinese_full_name": "约翰一书",
+            "Chinese_abbreviation": "约一",
+            "English_full_name": "1 John",
+            "English_abbreviation": "1Jo"
+        },
+        {
+            "Chinese_full_name": "约翰二书",
+            "Chinese_abbreviation": "约二",
+            "English_full_name": "2 John",
+            "English_abbreviation": "2Jo"
+        },
+        {
+            "Chinese_full_name": "约翰三书",
+            "Chinese_abbreviation": "约三",
+            "English_full_name": "3 John",
+            "English_abbreviation": "3Jo"
+        },
+        {
+            "Chinese_full_name": "犹大书",
+            "Chinese_abbreviation": "犹",
+            "English_full_name": "Jude",
+            "English_abbreviation": "Jud"
+        },
+        {
+            "Chinese_full_name": "启示录",
+            "Chinese_abbreviation": "启",
+            "English_full_name": "Revelation",
+            "English_abbreviation": "Rev"
+        }
+ ]
+}

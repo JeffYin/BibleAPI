@@ -1,0 +1,68 @@
+{
+    "hash": "qy0ykoegr5",
+    "disambiguation": [],
+    "strongs": [],
+    "paging": [],
+    "errors": [],
+    "error_level": 0,
+    "results": [
+        {
+            "book_id": 2,
+            "book_name": "\u51fa\u57c3\u53ca",
+            "book_short": "\u51fa",
+            "book_raw": "Exo",
+            "chapter_verse": "12:37 - 38",
+            "chapter_verse_raw": null,
+            "verse_index": {
+                "12": [
+                    37,
+                    38
+                ]
+            },
+            "verses": {
+                "chinese_union_simp": {
+                    "12": {
+                        "37": {
+                            "id": 1854,
+                            "book": 2,
+                            "chapter": 12,
+                            "verse": 37,
+                            "text": "\u4ee5 \u8272 \u5217 \u4eba \u4ece \u5170 \u585e \u8d77 \u884c \uff0c \u5f80 \u758f \u5272 \u53bb \uff1b \u9664 \u4e86 \u5987 \u4eba \u5b69 \u5b50 \uff0c \u6b65 \u884c \u7684 \u7537 \u4eba \u7ea6 \u6709 \u516d \u5341 \u4e07 \u3002",
+                            "italics": "",
+                            "claimed": true
+                        },
+                        "38": {
+                            "id": 1855,
+                            "book": 2,
+                            "chapter": 12,
+                            "verse": 38,
+                            "text": "\u53c8 \u6709 \u8bb8 \u591a ? \u6742 \u4eba \uff0c \u5e76 \u6709 \u7f8a \u7fa4 \u725b \u7fa4 \uff0c \u548c \u4ed6 \u4eec \u4e00 \u540c \u4e0a \u53bb \u3002",
+                            "italics": "",
+                            "claimed": true
+                        }
+                    }
+                }
+            },
+            "verses_count": 2,
+            "single_verse": false,
+            "nav": {
+                "prev_book": "\u521b\u4e16\u8bb0",
+                "next_book": "\u5229\u672a\u8bb0",
+                "next_chapter": "\u51fa\u57c3\u53ca 13",
+                "ncb_name": "\u51fa\u57c3\u53ca",
+                "prev_chapter": "\u51fa\u57c3\u53ca 11",
+                "pcb_name": "\u51fa\u57c3\u53ca",
+                "cur_chapter": "\u51fa\u57c3\u53ca 12",
+                "ccb_name": "\u51fa\u57c3\u53ca",
+                "ncb": 2,
+                "ncc": 13,
+                "pcb": 2,
+                "pcc": 11,
+                "ccb": 2,
+                "ccc": 12,
+                "nb": 3,
+                "pb": 1
+            }
+        }
+    ]
+}
